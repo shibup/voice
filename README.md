@@ -1,2 +1,2 @@
-# Testing Sayspring Voice UI
+# Voice UI
 This is a test page that I am working on while learning to use github.
